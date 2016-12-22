@@ -4,7 +4,6 @@
 #
 import random
 import tkinter as tk
-import tkinter.simpledialog as msgbox
 import sys
 
 
